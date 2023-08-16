@@ -1,5 +1,7 @@
 /* Custom Code For Reference Guides Links */
 
+/* Reference Guides - Error When Opening */
+
 /* Updated the Reference Guides Code to use the new links If provided in the attach document */
 
 <?php 
